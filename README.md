@@ -15,3 +15,9 @@ For all python scripts contained, "Final1.csv" is the processed dataset used to 
 "shuffletest" is an identical program to "gradient_boost_acc" apart from the dataset that is used. This program is a test of validity of our stroke predictions.
 
 "gradient_boost_graphical" builds on "gradient_boost_acc" by producing a calibration plot that visualises the accuracy of the predictions made by the classifier. Alongside the gradient boosting method there is a calibration plot for the logistic regression classifier. This aims to give a confidence level to our predictions. Another visualisation seen here is a comparison of which features are the most important on stroke prediction.
+
+# References
+
+Scikit learn gradient boosting - https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html
+
+Scikit Learn calibration plots - https://scikit-learn.org/stable/auto_examples/calibration/plot_compare_calibration.html#sphx-glr-auto-examples-calibration-plot-compare-calibration-py
