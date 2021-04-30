@@ -1,4 +1,4 @@
-# MDM2-Project-3-SVM
+# MDM2-Project-3-SVM Overview
 
 
 This repository contains a mixture of python files - used to program the Support vector machines machine learning experimentation used in MDM2 Project 3 on Stroke prediction. Along with csv files of the unprocessed and processed dataset on stroke prediction. The dataset used can be found @ https://www.kaggle.com/fedesoriano/stroke-prediction-dataset.
