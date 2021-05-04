@@ -1,4 +1,4 @@
-# MDM2-Project-3-Predict-stroke-risk-with-ML Overview
+# Overview
 
 
 This repository contains a mixture of python files - used to program the Support vector machines machine and Neural Network methods used in MDM2 Project 3 on Stroke prediction. Also contained is the code used to pre-processd data along with csv files of the unprocessed and processed dataset on stroke prediction. The dataset used can be found @ https://www.kaggle.com/fedesoriano/stroke-prediction-dataset.
@@ -32,3 +32,5 @@ Scikit learn gradient boosting - https://scikit-learn.org/stable/auto_examples/e
 Scikit Learn calibration plots - https://scikit-learn.org/stable/auto_examples/calibration/plot_compare_calibration.html#sphx-glr-auto-examples-calibration-plot-compare-calibration-py
 
 Scikit-learn kNNImputer - https://scikit-learn.org/stable/modules/generated/sklearn.impute.KNNImputer.html
+
+TensorFlow toolkit - https://www.tensorflow.org/
